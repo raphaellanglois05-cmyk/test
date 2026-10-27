@@ -53,7 +53,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="TVVJU6e3nNFtC8Db6MRu" name="Page-2">
-    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
+    <mxGraphModel dx="1097" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#ffffff, #121212)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -165,7 +165,7 @@
         <mxCell id="0miReml27UPX9e7y-Poh-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
           <mxGeometry height="30" width="60" x="190" y="671" as="geometry" />
         </mxCell>
-        <mxCell id="0miReml27UPX9e7y-Poh-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+        <mxCell id="0miReml27UPX9e7y-Poh-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="LAPTOP" vertex="1">
           <mxGeometry height="30" width="60" x="90" y="771" as="geometry" />
         </mxCell>
         <mxCell id="0miReml27UPX9e7y-Poh-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
@@ -220,7 +220,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0Tiu-5BEnPmwRnZcMRAe" name="Page-3">
-    <mxGraphModel dx="912" dy="1805" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
