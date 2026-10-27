@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net">
+<mxfile host="app.diagrams.net" pages="2">
   <diagram name="Page-1" id="kSt-AE6t1yAnf6hLbD5A">
-    <mxGraphModel dx="1097" dy="765" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="757" dy="528" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="cIaQKwutpz_OEoUFU5Do-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;" value="" vertex="1">
+        <mxCell id="cIaQKwutpz_OEoUFU5Do-24" parent="1" style="ellipse;whiteSpace=wrap;html=1;shapeInside=1;fillColor=none;dashed=1;" value="" vertex="1">
           <mxGeometry height="420" width="430" x="220" y="100" as="geometry" />
         </mxCell>
         <mxCell id="cIaQKwutpz_OEoUFU5Do-1" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;labelPerimeter=1;" value="" vertex="1">
@@ -28,9 +28,35 @@
         <mxCell id="cIaQKwutpz_OEoUFU5Do-7" parent="1" style="sketch=0;html=1;pointerEvents=1;dashed=0;fillColor=#036897;strokeColor=#ffffff;strokeWidth=2;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.cisco.computers_and_peripherals.pc;labelPerimeter=1;" value="" vertex="1">
           <mxGeometry height="70" width="78" x="248" y="110" as="geometry" />
         </mxCell>
-        <mxCell id="cIaQKwutpz_OEoUFU5Do-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" value="TOPOLOGIE EN ANNEAU" vertex="1">
+        <mxCell id="cIaQKwutpz_OEoUFU5Do-26" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1;fontFamily=Times New Roman;" value="TOPOLOGIE EN ANNEAU&lt;div&gt;AVEC SEULEMENT DES ORDINATEURS DE BUREAU&lt;/div&gt;" vertex="1">
           <mxGeometry height="30" width="208" x="331" y="290" as="geometry" />
         </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="580" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="420" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-3" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="180" y="345" as="geometry" />
+        </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="280" y="510" as="geometry" />
+        </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-5" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="498" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="4g1i6sFUdHGksGVdQZ37-6" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=16;fontStyle=1" value="PC" vertex="1">
+          <mxGeometry height="30" width="60" x="258" y="190" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="TVVJU6e3nNFtC8Db6MRu" name="Page-2">
+    <mxGraphModel dx="438" dy="305" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
